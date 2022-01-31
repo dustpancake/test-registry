@@ -1,0 +1,6 @@
+name = "TestReg"
+uuid = "f4feee08-f972-4f20-bf02-2b154da61742"
+repo = "https://github.com/dustpancake/test-registry"
+description = "Test Registry"
+
+[packages]
